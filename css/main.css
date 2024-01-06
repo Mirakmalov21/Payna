@@ -458,6 +458,7 @@ ul {
 
 .email {
     border: none;
+    padding: 12px 0 12px 24px;
     border-radius: 50px;
     background: #F5F6FB;
     padding-left: 10px;
